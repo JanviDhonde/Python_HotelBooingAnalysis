@@ -32,8 +32,27 @@ The goal of this project is to:
 2. Ensure you have the required libraries installed (`pandas`, `matplotlib`, `seaborn`).  
 3. Run the provided code to load data and generate visualizations.  
 
-### 📊 Dashboard Preview  
-> Graphical visualizations are not present in this README. Instead, you can explore the visualizations in the accompanying report or generate them by running the code in your environment.
+### 📊 Graph Visualizations
+#### 1. Reservation Status Count
+Shows the proportion of canceled versus not canceled reservations.
+
+#### 2. Reservation Status in Different Hotels
+Comparison of cancellations between city and resort hotels.
+
+#### 3. Average Daily Rate (ADR) in City and Resort Hotels
+Trend of ADR across different dates for both hotel types.
+
+#### 4. Reservation Status Across Months
+Monthly trend showing reservations and cancellations.
+
+#### 5. Top 10 Countries with Cancellations
+Pie chart showing the top 10 countries with the highest cancellations.
+
+#### 6. Market Segments Distribution
+Proportion of customers from different booking channels.
+
+#### 7. ADR for Canceled vs. Not Canceled Reservations
+Comparison of ADR for canceled and non-canceled bookings.
 
 ### 💡 Why This Project Matters  
 Understanding booking patterns and customer behaviors can help hotels:  
